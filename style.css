@@ -1,0 +1,35 @@
+body {
+  color: black;
+  margin: 0;
+  background-color: yellow;
+}
+
+.button {
+  height: 150px;
+  width: 150px;
+  cursor: pointer;
+  border: 1px solid #c80d0d;
+  background: #eeeeee;
+  font-family: "inter", san-serif;
+  font-size: 70px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  height: 150px;
+  width: 500px;
+  font-size: l00px;
+  padding: 25px 25px 25px 100px;
+  font-weight: bold;
+}
+
+h2 {
+  padding-left: 290px;
+  font-size: 35px;
+}
+
+button:hover {
+  background: #dddddd;
+}
