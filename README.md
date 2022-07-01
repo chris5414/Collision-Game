@@ -46,7 +46,7 @@ Certainly there are plenty of rooms for improvements, and these are the followin
   
   <h2>Credits</h2>
   
-  GA SEI-37 instructors (Desmond) and coordinators (ZhenHao & Nyna)
+  GA SEI-37 instructor (Desmond) and IA (ZhenHao & Nyna)
   
   
   
