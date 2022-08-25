@@ -10,6 +10,8 @@ You win when you managed to open all 12 numbers.
 
 Click 'RESTART' for new game or if you wish to restart it.
 
+Please click on this link to play this game: <a href="https://chris5414.github.io/Memory-Game/" target="_blank">HERE</a>
+
 <h2> Approach </h2>
 
 This is my first game created using Javascript, CSS and HTML. The whole idea is to have a feel of how it 
